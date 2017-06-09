@@ -1,0 +1,12 @@
+c:\users\suresh.k\documents\visual studio 2012\Projects\webscrap\webscrap\bin\Debug\webscrap.exe.config
+c:\users\suresh.k\documents\visual studio 2012\Projects\webscrap\webscrap\obj\Debug\webscrap.csprojResolveAssemblyReference.cache
+c:\users\suresh.k\documents\visual studio 2012\Projects\webscrap\webscrap\bin\Debug\webscrap.exe
+c:\users\suresh.k\documents\visual studio 2012\Projects\webscrap\webscrap\bin\Debug\webscrap.pdb
+c:\users\suresh.k\documents\visual studio 2012\Projects\webscrap\webscrap\obj\Debug\webscrap.exe
+c:\users\suresh.k\documents\visual studio 2012\Projects\webscrap\webscrap\obj\Debug\webscrap.pdb
+C:\Users\suresh.k\Documents\Visual Studio 2012\Projects\webscrap FLIPKART- Copy\webscrap\bin\Debug\webscrap.exe.config
+C:\Users\suresh.k\Documents\Visual Studio 2012\Projects\webscrap FLIPKART- Copy\webscrap\obj\Debug\webscrap.exe
+C:\Users\suresh.k\Documents\Visual Studio 2012\Projects\webscrap FLIPKART- Copy\webscrap\obj\Debug\webscrap.pdb
+C:\Users\suresh.k\Documents\Visual Studio 2012\Projects\webscrap FLIPKART- Copy\webscrap\bin\Debug\webscrap.exe
+C:\Users\suresh.k\Documents\Visual Studio 2012\Projects\webscrap FLIPKART- Copy\webscrap\bin\Debug\webscrap.pdb
+C:\Users\suresh.k\Documents\Visual Studio 2012\Projects\webscrap FLIPKART- Copy\webscrap\obj\Debug\webscrap.csprojResolveAssemblyReference.cache
